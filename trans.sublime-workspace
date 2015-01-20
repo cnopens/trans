@@ -1,0 +1,611 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"return"
+			],
+			[
+				"st",
+				"static"
+			],
+			[
+				"ser",
+				"servers"
+			],
+			[
+				"me",
+				"MemberFriendApplyService"
+			],
+			[
+				"I",
+				"IMemberFriendAppService"
+			],
+			[
+				"m",
+				"memberFriendApply"
+			],
+			[
+				"M",
+				"MemberGalleryRowMaper"
+			],
+			[
+				"fro",
+				"frameworks"
+			],
+			[
+				"Se",
+				"SELECT"
+			],
+			[
+				"get",
+				"getString"
+			],
+			[
+				"ac",
+				"activityInterested"
+			],
+			[
+				"pa",
+				"pageSize"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"activi",
+				"activityList"
+			],
+			[
+				"toal",
+				"totalPage"
+			],
+			[
+				"setpage",
+				"setPageCount"
+			],
+			[
+				"pagi",
+				"pagingList"
+			],
+			[
+				"setC",
+				"setCurPage"
+			],
+			[
+				"page",
+				"pageSize"
+			],
+			[
+				"to",
+				"totalCount"
+			],
+			[
+				"tota",
+				"totalCount"
+			],
+			[
+				"Act",
+				"Activity"
+			],
+			[
+				"Ac",
+				"ActivityQueryRowMapper"
+			],
+			[
+				"cou",
+				"countSql"
+			],
+			[
+				"quer",
+				"queryForInt"
+			],
+			[
+				"count",
+				"count"
+			],
+			[
+				"el",
+				"elementFromPoint"
+			],
+			[
+				"a",
+				"assert"
+			],
+			[
+				"s",
+				"ttwf-reftest-tutorial-starter-ref"
+			],
+			[
+				"e",
+				"exampleHeight"
+			],
+			[
+				"as",
+				"assert_true"
+			],
+			[
+				"test",
+				"test"
+			],
+			[
+				"do",
+				"document"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 85.0,
+		"selected_items":
+		[
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Snippet: Simple HTML5 Boilerplate"
+			],
+			[
+				"Package Control:re",
+				"Package Control: Remove Package"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/G/[2013-2014]lab-resources/linux集群/说明.txt",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/sources.list",
+		"/D/Program Files (x86)/Tencent/QDesk/更新日志.txt",
+		"/C/Users/Administrator/.m2/settings.xml",
+		"/C/Users/Administrator/Desktop/history.txt",
+		"/C/Users/Administrator/Desktop/tt.txt",
+		"/C/Users/Administrator/Desktop/jinstall.txt",
+		"/C/Users/Administrator/Desktop/执行脚本/首经贸项目-二次变更部署说明20141221.txt",
+		"/C/Users/Administrator/Desktop/redisConfig.properties",
+		"/E/Company/project/部署数据文件/初始化数据表数据脚本/SYS_LOG.sql",
+		"/E/Company/project/部署数据文件/初始化数据表数据脚本/SYS_DICT.sql",
+		"/E/Company/project/部署数据文件/初始化数据表数据脚本/SYS_AREA.sql",
+		"/E/Company/project/部署数据文件/初始化数据表数据脚本/GW_BUSINESS_SYSTEM.sql",
+		"/E/Company/project/部署数据文件/[3]平台监控表(除性能数据).sql",
+		"/C/Users/Administrator/Desktop/666.sql",
+		"/I/2.sql",
+		"/E/Company/自己环境使用的脚本/33.sql",
+		"/E/Company/自己环境使用的脚本/初始化数据表数据脚本.sql",
+		"/E/Company/自己环境使用的脚本/GW_BUSINESS_SYSTEM.sql",
+		"/E/Company/project/sql文件/创建用户和表空间.sql",
+		"/C/Users/Administrator/Desktop/GW_MONITOR_PERFORMANCE.sql",
+		"/E/Company/project/sql文件/[0]创建用户及数据表和临时表.sql",
+		"/E/Company/project/sql文件/GW_MONITOR_.sql",
+		"/E/Company/project/sql文件/GW_PERFORMANCE_.sql",
+		"/E/Company/project/sql文件/GW_MONITOR_METRIC_DATA.sql",
+		"/E/Company/project/sql文件/GW_MONITOR_DEVICE_VIEW.sql",
+		"/E/Company/project/sql文件/GW_QRTZ_.sql",
+		"/C/Users/Administrator/Desktop/SYS_USER_ROLE.sql",
+		"/E/manual/[2012][AAA]云计算/new focus/[2012-2014]计划文档夹/[0]每天为自己要做的事情.txt",
+		"/E/labroom/app-chart_projects/jquery.jqplot/dist/dynamic_generatorTable.htm",
+		"/E/CooperationPro/小辛合作项目/新功能-测试.txt",
+		"/E/manual/[2012][AAA]云计算/new focus/knowlegues/任务安排.txt",
+		"/E/release/lab/文件/文件/businessLargerView.mxml",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/web.xml",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/config.xml",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/framework.properties",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/monitor.properties",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/redisConfig.properties",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/MANIFEST.MF",
+		"/E/Company/project/sql文件/初始化基础数据.sql",
+		"/C/Users/Administrator/Desktop/执行脚本/部署说明20141221.txt",
+		"/C/Users/Administrator/AppData/Local/Temp/scp52195/opt/apache-tomcat-7.0.55/webapps/cm_web/static/business/data/config.xml",
+		"/E/Company/project/code/businessView/out/artifacts/businessView_war_exploded/flex/data/config.xml",
+		"/E/Company/事件部署/rules部署概要.txt",
+		"/E/Company/update/cm_web/cm_web/resources/monitor.properties",
+		"/E/Company/com.glaway.redis-1.0/redisConfig.properties",
+		"/E/Company/事件部署/opera.txt",
+		"/E/release/ChangAnProject/cm_web/resources/log4j.properties",
+		"/E/Company/project/code/cm_web/classes/artifacts/cm_web_war_exploded/WEB-INF/web.xml",
+		"/E/Company/framework.properties",
+		"/E/Company/redisConfig.properties",
+		"/E/release/project-clm/Branches/cm_oracle/CM_Web/resources/monitor.properties",
+		"/E/release/project-clm/Branches/cm_oracle/CM_Web/resources/framework.properties",
+		"/E/release/project-clm/code/CM_Web/resources/monitor.properties",
+		"/E/release/project-clm/code/CM_Web/resources/framework.properties",
+		"/E/release/ChangAnProject/cm_web/classes/artifacts/cm_web_war_exploded/WEB-INF/classes/monitor.properties",
+		"/E/个人文档夹/myencrydoc/iphone4s账号信息.txt",
+		"/E/项目工作夹/bmc remedy/BMC-remedy-Operations.txt",
+		"/E/项目工作夹/三院-59所/59所工作.txt",
+		"/E/labroom/app-chart_projects/jquery.jqplot/dist/examples/barTest.html",
+		"/E/release/ChangAnJianKong/doc/prototype/changanqiche/report/report-add.html",
+		"/E/[2014]近期完成文档及视频/8.29《数据迁移之-Oracle单实例迁移RAC》李老师网络公开课课件.txt",
+		"/E/项目工作夹/CLM-oracle/GLAWAY_MONITOR_PERFORMANCEHOUR_20140717.sql",
+		"/E/manual/[2012][AAA]云计算/new focus/[2012-2014]计划文档夹/我的重要任务及问题知识记录.txt",
+		"/E/manual/[2012][AAA]云计算/new focus/[2012-2014]计划文档夹/[8]总结笔记-学习.txt",
+		"/E/manual/[2012][AAA]云计算/new focus/[2012-2014]计划文档夹/[6]进步每一天[新补充].txt",
+		"/E/manual/[2012][AAA]云计算/new focus/knowlegues/应用必知-问题解决.txt",
+		"/E/manual/[2012][AAA]云计算/new focus/knowlegues/技术常识(基础).txt",
+		"/E/manual/[2012][AAA]云计算/new focus/knowlegues/积少成多-问题解决积累.txt",
+		"/E/labroom/app-chart_projects/checkbox.html",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/fonts.dir",
+		"/C/Users/Administrator/Desktop/EventComprehensiveController.java",
+		"/C/Users/Administrator/Desktop/V_GW_MONITOR_DEVICE.sql",
+		"/E/release/ChangAnJianKong/cm_web/resources/log4j.properties",
+		"/E/manual/[2012][AAA]云计算/new focus/[2012-2014]计划文档夹/每天为自己要做的事情.txt",
+		"/E/manual/[2012][AAA]云计算/new focus/[2012-2014]计划文档夹/oracle常用命令大全.txt",
+		"/C/Users/Administrator/Desktop/流程处理工作安排.txt",
+		"/E/manual/[2012][AAA]云计算/new focus/knowlegues/my-to-oracle-必知道的50件事.txt",
+		"/D/appsoft/Administrator/product/11.2.0/client_1/network/admin/tnsnames.oRA",
+		"/D/appsoft/Administrator/product/11.2.0/client_1/network/admin/sqlnet.ora",
+		"/D/www/full_canlendar/demos/json-events.php",
+		"/E/个人文档夹/myencrydoc/个人机密/个人相关（公司及住址及家里的账号）.txt",
+		"/E/manual/[2012][AAA]云计算/new focus/[2012-2014]计划文档夹/紧急充电（截止8.12）.txt",
+		"/E/manual/[2012][AAA]云计算/new focus/[2012-2014]计划文档夹/总结笔记-学习.txt",
+		"/E/manual/[2012][AAA]云计算/new focus/[2012-2014]计划文档夹/常用记录信息.txt",
+		"/E/manual/[2012][AAA]云计算/new focus/[2012-2014]计划文档夹/今天我的成长.txt",
+		"/E/manual/[2012][AAA]云计算/new focus/[2012-2014]计划文档夹/【2013四季度]】近期自己安排任务.txt",
+		"/E/manual/[2012][AAA]云计算/new focus/[2012-2014]计划文档夹/进步每一天.txt",
+		"/E/manual/[2012][AAA]云计算/new focus/new  2.txt",
+		"/C/Users/Administrator/Desktop/mysql启动异常.txt",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/taglib.jsp",
+		"/D/Media/com/glaway/cloud/clm/mapper/MonitorResourceMapper.xml",
+		"/D/Media/com/glaway/cloud/clm/mapper/MonitorResourceGroupMapper.xml",
+		"/E/release/project-clm/anychart_sample/chart/data6.xml",
+		"/E/release/project-clm/anychart_sample/chart/data7.xml",
+		"/C/Users/Administrator/Desktop/重要任务及问题记录.txt",
+		"/E/release/project-clm/anychart_sample/data1.xml",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/roleForm.jsp",
+		"/D/servers/nexus-2.8.1-01-bundle/nexus-2.8.1-01/conf/nexus.properties",
+		"/D/servers/nexus-2.6.2-01-bundle/nexus-2.6.2-01/conf/nexus.properties",
+		"/E/release/project-clm/doc/monitor/glaway_monitor.sql",
+		"/C/Users/Administrator/Desktop/pringManagedTransaction].txt",
+		"/D/workspace/focus_project/spring-activiti-webapp/src/main/resources/jdbc.properties",
+		"/C/Users/Administrator/Desktop/变更.json",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/treeview.jsp",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/myMass.jsp",
+		"/E/CooperationPro/小辛合作项目/[4]首经贸团委项目/团委管理系统-设计UI正式版/团委管理系统1.27-v2.1/SMMIdMg.html",
+		"/D/workspace/beautycare/doc/task.txt",
+		"/D/workspace/app_sigar_hyperic/doc/hyperic-sigar-1.6.4/examples/CpuInfo.java",
+		"/D/workspace/MyFirstService.java",
+		"/D/workspace/3starblog/web/WEB-INF/web.xml",
+		"/D/workspace/3starblog/web/WEB-INF/appengine-web.xml",
+		"/D/workspace/3starblog/web/index.jsp",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/leaguedismiss.jsp",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/readme.txt",
+		"/D/servers/apache-tomcat-7.0.47/webapps/woko/WEB-INF/web.xml",
+		"/D/servers/apache-tomcat-6.0.35/webapps/ROOT/WEB-INF/web.xml",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/application.properties",
+		"/E/project-aim/sjmtwgl/out/artifacts/sjmtwgl_war_exploded/WEB-INF/classes/applicationContext.xml",
+		"/E/project-aim/sjmtwgl/out/artifacts/sjmtwgl_war_exploded/WEB-INF/classes/application.properties",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/tomcat-users.xml",
+		"/E/project-aim/sjmtwgl/out/artifacts/sjmtwgl_war_exploded/tomcat-users.xml",
+		"/D/bigdata-libary/domain/mybatis_generator/generatorConfig-mysql.xml",
+		"/D/devtools/fkstools/myibatis-generator/tools/generatorConfig.properties",
+		"/D/bigdata-libary/domain/mybatisGen/generatorConfig-mysql.xml",
+		"/C/Users/Administrator/Desktop/新建 文本文档.txt",
+		"/D/devtools/fkstools/myibatis-generator/tools/generator-mysql.xml",
+		"/D/devtools/fkstools/myibatis-generator/generatorConfig.properties"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"us.",
+			"GW_MONITOR_METRIC",
+			"bppmws",
+			"CPUCPUUTIL",
+			"8080",
+			"clm",
+			"GW_BUSINESS_SYSTEM",
+			"申请日期：",
+			"max",
+			"LucidaTypewriterBold",
+			"LucidaTypewriterRegular",
+			"LucidaSansDemiBold",
+			"LucidaSansRegular",
+			"LucidaBrightDemiItalic",
+			"LucidaBrightDemiBold",
+			"LucidaBrightItalic",
+			"LucidaBrightRegular",
+			"chart4",
+			"');\n",
+			"ERROR",
+			"修改服务实例",
+			"ERROR",
+			"\"/>\n",
+			"google",
+			"productName",
+			"localhost",
+			"licener",
+			"/>",
+			"mirror",
+			"plugin",
+			"jetty",
+			"'\n",
+			"PRV_",
+			"LATIN1",
+			"`)\n",
+			"/ADMIN/MENUS",
+			"VALUES",
+			"m-widget-2",
+			"widget2ToggleContent",
+			"1024",
+			"started",
+			"prvdb",
+			"      \n",
+			"   <table schema=\"prvdb\" tableName=\"prv_system\" domainObjectName=\"System\" enableCountByExample=\"false\" enableUpdateByExample=\"false\" enableDeleteByExample=\"false\" enableSelectByExample=\"false\" selectByExampleQueryId=\"false\"></table>     \n        <table schema=\"prvdb\" tableName=\"prv_system\" domainObjectName=\"System\" enableCountByExample=\"false\" enableUpdateByExample=\"false\" enableDeleteByExample=\"false\" enableSelectByExample=\"false\" selectByExampleQueryId=\"false\"></table>      ",
+			"   <table schema=\"prvdb\" tableName=\"prv_system\" domainObjectName=\"System\" enableCountByExample=\"false\" enableUpdateByExample=\"false\" enableDeleteByExample=\"false\" enableSelectByExample=\"false\" selectByExampleQueryId=\"false\"></table>  ",
+			"`osa_",
+			"`osa_\n",
+			"-----------------------------\n",
+			"refreshNodes",
+			"harness.dir",
+			"tomcat",
+			"支付宝",
+			"plugin",
+			"maven-jetty-plugin.version}",
+			"jetty",
+			"https",
+			"`osa_*`",
+			"osa_?",
+			"osa_*",
+			"osa_",
+			"demo.osadmin.net",
+			"useradd",
+			"bind",
+			"path",
+			"c：",
+			"1394ohci.sys.mui",
+			"用户权限系统怎么集成这个工作流，权限分为两种，即功能权限（页面显示不显示那种）和数据权限（比如A部门用户只能看到A部门的东东）",
+			"db",
+			"server",
+			"NULL",
+			"area",
+			"id",
+			"Item",
+			"chineseLabel",
+			"    <!--",
+			"consume",
+			"C_HAIR_ORIENTATION",
+			"工作流",
+			"美发",
+			"01",
+			"./configure",
+			"samba",
+			"SupportedAPIs",
+			"main",
+			"ParseAndSendEvents",
+			"iiwsClientExecuteOperations",
+			"main",
+			"writeOutput",
+			"main",
+			"II",
+			"II_URL",
+			"testSendEvents",
+			"ImpactManager",
+			"pluginGroups",
+			"jetty\n",
+			"    		\n",
+			"jetty",
+			"admin",
+			"human.task",
+			"urn:jboss:domain:1.0",
+			"server.log",
+			"log",
+			"standalone",
+			"standa",
+			"server name",
+			"server",
+			"datasource",
+			"mysql",
+			"idevnews",
+			"intstall.J",
+			"intstall.j",
+			"intstall.jBPM",
+			"eclipse-java-helios-SR2-win32",
+			"install.home",
+			"zip",
+			"rar",
+			"eclipse",
+			"datasources",
+			"java:jboss",
+			"install.eclipse",
+			"install.jBPM",
+			"install.eclipse",
+			"eclipse.home",
+			"elipse_home",
+			"elipse-home",
+			"install.jBPM-",
+			"eclipse",
+			"7"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"simsun",
+			"></script>",
+			"CLM_",
+			"UTF8",
+			"scmpdb",
+			"`pri_",
+			"pri_",
+			"美容",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "trans.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/E/projects/yolochina/yolochina.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
